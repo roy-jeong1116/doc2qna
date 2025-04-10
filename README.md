@@ -1,4 +1,4 @@
-# doc2qna: 문서 기반 자동 QnA 생성 및 RAG 시스템
+문서 기반 자동 QnA 생성 및 RAG 시스템
 
 doc2qna는 사내의 다양한 형식의 문서(PDF, DOCX, PPTX, HTML, 이미지 등)를 자동 분석하여 핵심 정보를 추출하고, LLM을 기반으로 질의응답(QnA) 쌍을 생성합니다. 이렇게 구축된 QnA 쌍은 RAG(Retrieval-Augmented Generation) 기반 검색 시스템에 활용되며, 사용자의 질의에 대해 정확하고 일관된 응답을 제공합니다.
 
